@@ -9,7 +9,14 @@
 ## 실행 화면
 ### 1. 장 시간이 아닌 경우
 
-![장 시간이 아닌 경우](images/not market time.png)
+![장 시간이 아닌 경우](images/not_market_time.png)
+
+### 2. 장 시간인 경우
+![장 시간인 경우](images/market_time.png)
+
+### 3. 기보유주식이 있는 경우 종목정보
+![기보유주식이 있는 경우 종목정보](images/stock_information_for_existing_holdings.png)
+
 ---
 
 ## 프로젝트 개요
